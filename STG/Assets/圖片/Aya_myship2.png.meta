@@ -1,0 +1,1486 @@
+fileFormatVersion: 2
+guid: 1874ec6931ca77448826e177bc474cf2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aya_myship2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d71dae499987a4bb1e77a8236810d4
+      internalID: 1244271621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 210
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d1aa5d6a84154cbba527286b07e8a
+      internalID: 434084405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 210
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133835095e387484fafe5e421a9d1bd8
+      internalID: 1497221770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 211
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c6a71be90ec5419d8300dd871dd2a
+      internalID: -278385899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 211
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8abf34eee7c744088c01caa1df614e
+      internalID: -1450801265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ef2538b5ce8e4a9c5cf05d7d6ffb9
+      internalID: 869172784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 210
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba82f408d1b5a4b8d226004349db42
+      internalID: -484518314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 210
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d57f5edb5bf154695521e0e75cee89
+      internalID: 705187133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 209
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc130bc04f60e34a96b1d8aff7b1612
+      internalID: -975849780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 208
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8def172af6e454a4e94cdde0c38f48b7
+      internalID: 1766254733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 209
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f5ba5f1292f74c93ca0d2807a1f72
+      internalID: 626442728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 210
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c81e6b52691e448d8bda5b698dca9
+      internalID: -548334246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 211
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019f254ea864f8042bea3a48801ee82b
+      internalID: -959699800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 211
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c98dec1424955e41902c273bc79d7f4
+      internalID: -1019325061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 212
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69453f1f10c7c7144aa2313ac95df66b
+      internalID: -315407145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 211
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c2147049e0d8a4c84e2dbc7633bd81
+      internalID: -1521376480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 211
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a465ae7c878842b0d34d843387d38
+      internalID: 2004102342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 211
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982d9c6191619c4286aa4018d2600c8
+      internalID: -556509508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 210
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02421ce6edfbe44b9959f6d29e8e2b
+      internalID: -1123764453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_19
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 128
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fe3ff6cb1308247afdd0617eeecf15
+      internalID: -98164357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0e1ea6035298f4bb98eaf653c2aa5c
+      internalID: 731812802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 162
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6c5658647207479bb2e18c91c7aa1
+      internalID: -39380799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 162
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34996812e419aa24881b2f4baff927aa
+      internalID: 877450883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6c90c14f6f13142a331b5ab0ae5ca8
+      internalID: 371709502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02de2bf4f2cb264daa0d68c720604c6
+      internalID: -1414340019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 162
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c4003f7b4724f448f74f50dd1cf5ea
+      internalID: -1124690795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae6d9c1508e491439297a87566e64bd
+      internalID: 1051132436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 162
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68ddb979f85e74388e9c5e28169b25
+      internalID: 1540249951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 161
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18bcdbee0df6dd499fe40156fdb9d52
+      internalID: -1666839396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_29
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 160
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7009b59021dab9544996bec6df19d94e
+      internalID: -300321840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_30
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 161
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea29942a751784f96eaa084ac66327
+      internalID: -1989216037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_31
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 162
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f67528771845642b9cffa06ad1ee25
+      internalID: 797602580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 163
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee90dd038319748966057a56c205dd
+      internalID: 443918407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_33
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 163
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a8ce1d56a090b41bc36d0a2a5470c0
+      internalID: -1384088304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_34
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 164
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3093647e73ff5c4791fb76a5db8c36f
+      internalID: -1143906068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_35
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 163
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b1c2ee6bc427e4fa42e2eb1872e114
+      internalID: -817280613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_36
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 163
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0639bc31fdf97946bcd7cb78cd06e32
+      internalID: 184971992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_37
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 163
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aba185a82b96242a48925ee2bce612
+      internalID: 1972178856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_38
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 162
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974d3beb00c2ba4b8cccdb3782cae29
+      internalID: 1584119299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 81
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3fa475c55cd2849b9c30908e2ef6ec
+      internalID: -96387555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b20ade55f3778340858061161bd5e18
+      internalID: -381025573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 138
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14103b74a10e51a49992933aba18bab5
+      internalID: -1215422495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 128
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49b75ae4a1fca0428ae9170d1240980
+      internalID: -684563470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 129
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690ac66e2942ca48a054d4be5fb017c
+      internalID: 370416750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 129
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66219aed711aa1048827bd01eee58533
+      internalID: -93234073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 129
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4792d93eb979145b7304d2840f7243
+      internalID: 540523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e4473751f0f6044aaf82cc00c9eca1
+      internalID: -1466100953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 59
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0417bdef8a0e8e74daa11ffa50e5b83d
+      internalID: 2078796708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 60
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a9a5e754ba100498f7084707c7fedb
+      internalID: -2068061575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 62
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1dc3f725f86e645a28a4ab8502fe45
+      internalID: 362976084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_50
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 61
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc0046e1ed34f47afa7a3633a51f5c
+      internalID: 228789837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 58
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b24bdb451e57342997f6a3dba77820
+      internalID: 559252125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 55
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef920299d55cdb4fa5018e2ad044921
+      internalID: 805671055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 53
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689eeb1bba619af41a3a25074865a747
+      internalID: -1606346876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 51
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d90918359e8eb42a4d630852bd3e36
+      internalID: -913914207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 50
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6660e21865ff8a4ba42515b8b7daab5
+      internalID: -522534730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_56
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 51
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901cceb4763fbd940961927ab2a553b2
+      internalID: -1666700647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 54
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe9a82c3a6a1b047af8d2e0eb9b46f5
+      internalID: 1147298287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_58
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 58
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6155d372352a8304287be050cc660969
+      internalID: 1144673699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_59
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 59
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea275035f2042ee448699a0ee20b5897
+      internalID: -1035745149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_60
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 57
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54e7dba8b707b49a6bc3d721f9b2b4
+      internalID: -349166365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aya_myship2_61
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 57
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424383bbae105904380dfe9224a63a04
+      internalID: -1777118301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aya_myship2_24: -1414340019
+      Aya_myship2_57: 1147298287
+      Aya_myship2_31: 797602580
+      Aya_myship2_11: -548334246
+      Aya_myship2_21: -39380799
+      Aya_myship2_36: 184971992
+      Aya_myship2_41: -1215422495
+      Aya_myship2_51: 559252125
+      Aya_myship2_0: 1244271621
+      Aya_myship2_15: -1521376480
+      Aya_myship2_28: -1666839396
+      Aya_myship2_32: 443918407
+      Aya_myship2_14: -315407145
+      Aya_myship2_54: -913914207
+      Aya_myship2_49: 362976084
+      Aya_myship2_3: -278385899
+      Aya_myship2_30: -1989216037
+      Aya_myship2_59: -1035745149
+      Aya_myship2_39: -96387555
+      Aya_myship2_7: 705187133
+      Aya_myship2_5: 869172784
+      Aya_myship2_38: 1584119299
+      Aya_myship2_19: -98164357
+      Aya_myship2_25: -1124690795
+      Aya_myship2_18: -1123764453
+      Aya_myship2_55: -522534730
+      Aya_myship2_1: 434084405
+      Aya_myship2_12: -959699800
+      Aya_myship2_6: -484518314
+      Aya_myship2_20: 731812802
+      Aya_myship2_46: -1466100953
+      Aya_myship2_58: 1144673699
+      Aya_myship2_16: 2004102342
+      Aya_myship2_60: -349166365
+      Aya_myship2_52: 805671055
+      Aya_myship2_27: 1540249951
+      Aya_myship2_4: -1450801265
+      Aya_myship2_43: 370416750
+      Aya_myship2_47: 2078796708
+      Aya_myship2_45: 540523
+      Aya_myship2_50: 228789837
+      Aya_myship2_35: -817280613
+      Aya_myship2_42: -684563470
+      Aya_myship2_10: 626442728
+      Aya_myship2_56: -1666700647
+      Aya_myship2_17: -556509508
+      Aya_myship2_9: 1766254733
+      Aya_myship2_53: -1606346876
+      Aya_myship2_8: -975849780
+      Aya_myship2_33: -1384088304
+      Aya_myship2_61: -1777118301
+      Aya_myship2_29: -300321840
+      Aya_myship2_34: -1143906068
+      Aya_myship2_44: -93234073
+      Aya_myship2_23: 371709502
+      Aya_myship2_22: 877450883
+      Aya_myship2_26: 1051132436
+      Aya_myship2_37: 1972178856
+      Aya_myship2_48: -2068061575
+      Aya_myship2_40: -381025573
+      Aya_myship2_2: 1497221770
+      Aya_myship2_13: -1019325061
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

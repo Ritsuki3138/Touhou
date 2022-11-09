@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - PlayerBullet
   layers:
   - Default
   - TransparentFX
@@ -11,10 +13,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - "\u81EA\u6A5F"
+  - "\u6575\u6A5F"
+  - "\u81EA\u6A5F\u5B50\u5F48"
+  - "\u6575\u6A5F\u5B50\u5F48"
   - 
   - 
   - 
