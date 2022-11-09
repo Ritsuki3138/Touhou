@@ -1,7 +1,10 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace Ritsuki
 {
+    /// <summary>
+    /// 玩家子彈資料
+    /// </summary>
     public class PlayerShot1 : MonoBehaviour
     {
         public float ShotSpeed = 0.2f;

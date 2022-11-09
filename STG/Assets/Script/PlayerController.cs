@@ -19,27 +19,27 @@ namespace Ritsuki
 
             //射出子彈
 
-            if (counter % 10 == 0)
+            if (counter % 8 == 0)
             {
                 Instantiate(Shot, transform.position + new Vector3(0.15f, 1.35f, 0), new Quaternion(0, 0, 0, 0));
             }
 
-            if(Input.GetKey(KeyCode.UpArrow))
+            if(Input.GetKey(KeyCode.UpArrow) && transform.position.y < 4.45f)
             {
                 transform.Translate(new Vector2(0, PLAYERSPEED * Time.deltaTime));    
             }
 
-            else if (Input.GetKey(KeyCode.DownArrow))
+            else if (Input.GetKey(KeyCode.DownArrow) && transform.position.y > -4.45f)
             {
                 transform.Translate(new Vector2(0, -PLAYERSPEED * Time.deltaTime));
             }
 
-            if(Input.GetKey(KeyCode.RightArrow))
+            if(Input.GetKey(KeyCode.RightArrow) && transform.position.x < 4.95f)
             {
                 transform.Translate(new Vector2(PLAYERSPEED * Time.deltaTime, 0));
             }
 
-            else if(Input.GetKey(KeyCode.LeftArrow))
+            else if(Input.GetKey(KeyCode.LeftArrow) && transform.position.x > -4.95f)
             {
                 transform.Translate(new Vector2(-PLAYERSPEED * Time.deltaTime, 0));
             }
