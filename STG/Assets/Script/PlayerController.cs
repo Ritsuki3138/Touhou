@@ -24,7 +24,7 @@ namespace Ritsuki
 
             //射出子彈
 
-            if (counter % 8 == 0)
+            if (counter % 7 == 0)
             {
                 Instantiate(Shot, transform.position + new Vector3(0.15f, 1.35f, 0), new Quaternion(0, 0, 0, 0));
             }

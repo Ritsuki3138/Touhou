@@ -403,7 +403,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 694741739484889859, guid: 6b5a42d90b8cb054bac0ca869011ce48, type: 3}
       propertyPath: HP
-      value: 30
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 694741739484889871, guid: 6b5a42d90b8cb054bac0ca869011ce48, type: 3}
       propertyPath: m_RootOrder

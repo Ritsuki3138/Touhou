@@ -8,7 +8,7 @@ namespace Ritsuki
     public class EnemyScript : MonoBehaviour
     {
         public GameObject Shot;
-        public int HP = 100;  // 敵機血量
+        public int HP = 50;  // 敵機血量
 
         private int counter = 0;
         private Vector3 EnemyPos = new Vector3();
