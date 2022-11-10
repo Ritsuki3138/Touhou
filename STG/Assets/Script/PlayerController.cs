@@ -13,6 +13,11 @@ namespace Ritsuki
 
         private int counter = 0;
 
+        void Start()
+        {
+            transform.position = new Vector3(PSVScript.SCREENCENTERX, transform.position.y, transform.position.z);
+        }
+
         void Update()
         {
             counter ++;
@@ -24,22 +29,22 @@ namespace Ritsuki
                 Instantiate(Shot, transform.position + new Vector3(0.15f, 1.35f, 0), new Quaternion(0, 0, 0, 0));
             }
 
-            if(Input.GetKey(KeyCode.UpArrow) && transform.position.y < 4.45f)
+            if(Input.GetKey(KeyCode.UpArrow) && transform.position.y < PSVScript.BOUNDYMAX)
             {
                 transform.Translate(new Vector2(0, PLAYERSPEED * Time.deltaTime));    
             }
 
-            else if (Input.GetKey(KeyCode.DownArrow) && transform.position.y > -4.45f)
+            else if (Input.GetKey(KeyCode.DownArrow) && transform.position.y > PSVScript.BOUNDYMIN)
             {
                 transform.Translate(new Vector2(0, -PLAYERSPEED * Time.deltaTime));
             }
 
-            if(Input.GetKey(KeyCode.RightArrow) && transform.position.x < 4.95f)
+            if(Input.GetKey(KeyCode.RightArrow) && transform.position.x < PSVScript.BOUNDXMAX)
             {
                 transform.Translate(new Vector2(PLAYERSPEED * Time.deltaTime, 0));
             }
 
-            else if(Input.GetKey(KeyCode.LeftArrow) && transform.position.x > -4.95f)
+            else if(Input.GetKey(KeyCode.LeftArrow) && transform.position.x > PSVScript.BOUNDXMIN)
             {
                 transform.Translate(new Vector2(-PLAYERSPEED * Time.deltaTime, 0));
             }
@@ -49,7 +54,14 @@ namespace Ritsuki
         {
             if (HP <= 0)
             {
-                Destroy(this.gameObject);
+                if (PSVScript.IsDebug)
+                {
+                    HP = 1;
+                }
+                else
+                {
+                    Destroy(this.gameObject);
+                }
             }
         }
     }

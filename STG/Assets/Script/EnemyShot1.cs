@@ -37,7 +37,7 @@ namespace Ritsuki
             {
                 if ((SC.ReflectValue == -1) || (SC.ReflectValue > 0))
                 {
-                    if ((transform.position.y >= 5) || (transform.position.y <= -5))
+                    if ((transform.position.y >= PSVScript.BOUNDYMAX) || (transform.position.y <= PSVScript.BOUNDYMIN))
                     {
                         transform.rotation = Quaternion.Euler(new Vector3(0, 0, 180 - transform.rotation.eulerAngles.z));
 
@@ -47,7 +47,7 @@ namespace Ritsuki
                         }
                     }
 
-                    if ((transform.position.x >= 5) || (transform.position.x <= -5))
+                    if ((transform.position.x >= PSVScript.BOUNDXMAX) || (transform.position.x <= PSVScript.BOUNDXMIN))
                     {
                         transform.rotation = Quaternion.Euler(new Vector3(0, 0, -transform.rotation.eulerAngles.z));
 
@@ -72,8 +72,8 @@ namespace Ritsuki
                 }
             }
 
-            if ((transform.position.y >= 6) || (transform.position.y <= -6) ||
-               (transform.position.x >= 6) || (transform.position.x <= -6))
+            if ((transform.position.y >= PSVScript.SCREENYMAX) || (transform.position.y <= PSVScript.SCREENYMIN) ||
+               (transform.position.x >= PSVScript.SCREENXMAX) || (transform.position.x <= PSVScript.SCREENXMIN))
             {
                 Destroy(this.gameObject);
             }
